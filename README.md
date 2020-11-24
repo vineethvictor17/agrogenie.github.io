@@ -1,4 +1,4 @@
-# SCREENSHOTS OF AGROGENIE
+# SCREENSHOTS OF AGROGENIE WEBSITE
 
 ![image](https://user-images.githubusercontent.com/68059834/99033828-c7624280-25a1-11eb-89f0-a627200bbba1.png)
 ![image](https://user-images.githubusercontent.com/68059834/99033857-db0da900-25a1-11eb-8e8c-1feb68d30516.png)
